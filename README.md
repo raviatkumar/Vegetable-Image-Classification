@@ -33,3 +33,8 @@ In conclusion, the Vegetable Image Classification project aims to develop a deep
 While the model demonstrated strong performance on several vegetable classes, there are opportunities for improvement, particularly for classes with lower precision and recall scores. Future work could involve fine-tuning the model architecture, exploring data augmentation techniques, or collecting additional training data to address these shortcomings.
 
 Overall, the Vegetable Image Classification project showcases the potential of deep learning techniques to automate agricultural processes and improve efficiency in vegetable production and distribution. By developing accurate classification models, we can enable automated sorting and labeling of vegetables, reducing manual labor and enhancing productivity in the agricultural industry.
+
+### Output :
+
+![Alt text](https://raw.githubusercontent.com/raviatkumar/Vegetable-Image-Classification/main/output/output.PNG)
+
